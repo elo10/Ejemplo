@@ -24,7 +24,4 @@ private int valor;
 	public void reset() {
 		valor = 0;
 	}
-	
-	
-	
 }
